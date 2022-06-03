@@ -21,7 +21,7 @@ Probably the biggest problem we had to face was to keep the arm clamp horizontal
 
 ## 🧶 The wiring
 We had a very big problem here : not enough power for the two big servos and the 360 rotor. In fact, we realized that the Arduino cannot deliver enough for everyone. Plus, coding with your pc while having the those big servos wired in, can cause a few problems to the pc!!! Yashveen's pc was completely fried and died after trying to code the big servos (we think that they need a resistance of at least 1500 Ohm, we don't suggest to wire them directly to the board and board to the pc or maybe we just had malfunctionning motors!).
-(image)
+<img src="https://github.com/Sami7754/Robotik_Arm/blob/main/pictures/wiring.png">
 
 ## 💻 The coding
 (code)
