@@ -60,8 +60,8 @@ void loop() {
   
 
     if (bluetooth=="A"){          //this part works and was largely tested!
-      pos0 = pos0 + 10;           *    //basically, if I send the letter A, then small servo opens a little
-      Servo1.write(pos0);         *    //bit the clamp
+      pos0 = pos0 + 10;           *    //basically, if I send the letter A, then small servo opens
+      Servo1.write(pos0);         *    //a little bit the clamp
       delay(30);                  *     //if I send the letter B, the clamp will close a bit
     }                             *
 
@@ -71,8 +71,8 @@ void loop() {
       delay(30);                  *
     }                             //
 
-    if (bluetooth=="C"){         //not so sure about this part, maybe for the bigger servo you need to
-      pos1 = pos1 + 10;          //attach and dettach them each time you move them!
+    if (bluetooth=="C"){         //not so sure about this part, maybe for the bigger servo you need
+      pos1 = pos1 + 10;          //to attach and dettach them each time you move them!
       Servo1.write(pos1);        *    
       delay(30);                 *
     }                            *
