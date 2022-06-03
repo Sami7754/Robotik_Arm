@@ -100,9 +100,9 @@ void loop() {
 ```
 
 ## 💭 Final thoughts
-<img src="https://github.com/Sami7754/Robotik_Arm/blob/main/pictures/pic1.png" width="500">
+<img src="https://github.com/Sami7754/Robotik_Arm/blob/main/pictures/pic1.jpg" width="500">
 
-<img src="https://github.com/Sami7754/Robotik_Arm/blob/main/pictures/pic2.png" width="500">
+<img src="https://github.com/Sami7754/Robotik_Arm/blob/main/pictures/pic2.jpg" width="500">
 
 At the end, we only managed to make work the clamp. The robot fully assembled looks pretty good. We are looking towards making it fully functional one day.
 
