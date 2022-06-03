@@ -8,7 +8,7 @@ We chose it, we stuck with it and we tried our best!
 <img src="https://github.com/Sami7754/Robotik_Arm/blob/main/pictures/overview.png">
 
 ## ✏️ The 3D modeling
-We costume made every single part of this arm. It was certainly not easy but it was the easier part of the project for sure. 
+We costum made every single part of this arm. It was certainly not easy but it was the easier part of the project for sure. 
 
 A few examples here :
 (3 images)
