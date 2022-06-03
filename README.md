@@ -5,7 +5,7 @@ This was a _**school project**_ made by Sami and Yashveen and we are freshmen. W
 We chose it, we stuck with it and we tried our best!
 
 ## 🔎 Quick overview
-<img src="">
+<img src="https://github.com/Sami7754/Robotik_Arm/blob/main/pictures/overview.png">
 
 ## ✏️ The 3D modeling
 We costume made every single part of this arm. It was certainly not easy but it was the easier part of the project for sure. 
